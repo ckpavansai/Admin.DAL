@@ -1,0 +1,7 @@
+E:\Capegemini\C#\Ecommerce_System1-main\Admin.DAL\Admin.DAL\bin\Debug\Admin.DAL.exe.config
+E:\Capegemini\C#\Ecommerce_System1-main\Admin.DAL\Admin.DAL\bin\Debug\Admin.DAL.exe
+E:\Capegemini\C#\Ecommerce_System1-main\Admin.DAL\Admin.DAL\bin\Debug\Admin.DAL.pdb
+E:\Capegemini\C#\Ecommerce_System1-main\Admin.DAL\Admin.DAL\obj\Debug\Admin.DAL.csprojAssemblyReference.cache
+E:\Capegemini\C#\Ecommerce_System1-main\Admin.DAL\Admin.DAL\obj\Debug\Admin.DAL.csproj.CoreCompileInputs.cache
+E:\Capegemini\C#\Ecommerce_System1-main\Admin.DAL\Admin.DAL\obj\Debug\Admin.DAL.exe
+E:\Capegemini\C#\Ecommerce_System1-main\Admin.DAL\Admin.DAL\obj\Debug\Admin.DAL.pdb
